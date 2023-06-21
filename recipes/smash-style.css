@@ -1,0 +1,21 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    border-radius: 30px;
+}
+
+h1,
+h2,
+h3 {
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+}
+
+ul li {
+    text-align: left;
+    background-color: lightgreen;
+    font-weight: bold;
+}
