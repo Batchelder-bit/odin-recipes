@@ -18,3 +18,8 @@ h3 {
 .default-text-color {
     color: orange;
 }
+
+.top-heading {
+    background-color: purple;
+    color: white;
+}
