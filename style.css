@@ -1,5 +1,11 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .recipe-button {
     color:blue;
+    text-align: center;
+    font-size: 25px;
 }
 
 .rounded-corners {
@@ -9,4 +15,5 @@
 h1 {
     font-weight: 700;
     color:hotpink;
+    font-size: 36px;
 }

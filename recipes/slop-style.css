@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rounded-corners {
+    border-radius: 30px;
+}
+
+h1,
+h2,
+h3 {
+    background-color: lightblue;
+    color: purple;
+    text-align: right;
+    border-radius: 30px;
+}
+
+.default-text-color {
+    color: orange;
+}

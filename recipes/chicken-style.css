@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rounded-corners {
+    border-radius: 30px;
+}
+
+.heading,
+title {
+    font-family: Brush Script MT;
+}
+
+.heading {
+    background-color: beige;
+    text-align: center;
+}
+
+ul li {
+    font-weight: 400;
+    color: rgb(1, 36, 1);
+}
+
+ol li {
+    font-weight: 700;
+    color: red;
+}
