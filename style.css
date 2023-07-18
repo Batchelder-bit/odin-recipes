@@ -1,5 +1,22 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.card-backing {
+    background-color: beige;
+    border: solid red 20px;
+}
+
+li {
+    margin: 30px;
+}
+
+.rounded-corners,
+ul {
+    margin-left: 130px;
 }
 
 .recipe-button {
@@ -9,11 +26,19 @@
 }
 
 .rounded-corners {
+    padding: 5px;
+    border: solid red;
     border-radius: 50px;
+}
+
+img {
+    display: inline-block;
+    text-align: center;
 }
 
 h1 {
     font-weight: 700;
     color:hotpink;
     font-size: 36px;
+    text-align: center;
 }
