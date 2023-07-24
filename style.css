@@ -41,4 +41,9 @@ h1 {
     color:hotpink;
     font-size: 36px;
     text-align: center;
+    background-color: rgb(46, 6, 6);
+    display: inline-block;
+    margin-left: 250px;
+    border-radius: 50px;
+    padding: 30px;
 }
